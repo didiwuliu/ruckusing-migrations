@@ -20,7 +20,7 @@ return array(
             'port' => 3306,
             'database' => 'ruckusing_migrations',
             'user' => 'root',
-            'password' => '',
+            'password' => 'root',
             //'charset' => 'utf8',
             //'directory' => 'custom_name',
             //'socket' => '/var/run/mysqld/mysqld.sock'
@@ -41,7 +41,7 @@ return array(
             'port' => 3306,
             'database' => 'ruckusing_migrations_test',
             'user' => 'root',
-            'password' => '',
+            'password' => 'root',
             //'directory' => 'custom_name',
             //'socket' => '/var/run/mysqld/mysqld.sock'
         ),
